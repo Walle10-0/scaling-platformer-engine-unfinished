@@ -14,6 +14,8 @@ The art in the game is not mine. It is from [this](https://assetstore.unity.com/
 I'm pretty satisfied with how the engine came out.  
 I may try to make it again in Godot.  
 
+I thought I would post it here for everyone's benifit  
+(rather than leave it on my harddrive)  
 You are free to use this code in your Unity games.  
 
 If you do want to use this, please let me know where you're using this  
