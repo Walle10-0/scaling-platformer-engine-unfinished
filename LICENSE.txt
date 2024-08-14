@@ -1,3 +1,4 @@
+This is much of a license.
 Basically... do whatever you want with my code.
 I created the scripts in the './Assets/scripts' folder.
 
