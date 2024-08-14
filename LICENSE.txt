@@ -1,8 +1,8 @@
-Basically... do whatever you want with my code.
+Basically... do whatever you want with my code in this repository.
 I created the scripts in the './Assets/scripts' folder.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute the parts of the software that I created, (in ./Assets/scripts)
+distribute the parts of this software that I created, (in ./Assets/scripts)
 either in source code form or as a compiled binary,
 for any purpose, commercial or non-commercial, and by any means.
 
