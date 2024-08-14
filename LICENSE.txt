@@ -1,0 +1,21 @@
+Basically... do whatever you want with my code.
+I created the scripts in the 'scripts' folder.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute the parts of the software that I created, (in ./scripts)
+either in source code form or as a compiled binary,
+for any purpose, commercial or non-commercial, and by any means.
+
+All I ask is that you consider letting me know where you're using it
+as I would love to see the cool things you create with it
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+The assets and Unity's stuff are not mine.
+The art assets can be found here https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
