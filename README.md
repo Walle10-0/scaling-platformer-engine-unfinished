@@ -19,5 +19,5 @@ I thought I would post it here for everyone's benifit
 You are free to use this code in your Unity games.  
 
 If you do want to use this, please let me know where you're using this  
-either by forking the repository or opening an issue.  
+either by forking the repository or by posting in [`Discussions`](https://github.com/Walle10-0/scaling-platformer-engine-unfinished/discussions)
 I would love to see the exciting things you do with this. :)
